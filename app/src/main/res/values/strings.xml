@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Belajar android Dasar</string>
+    <string name="nameEditText">Name :</string>
+    <string name="sayHelloButton">Say Hello</string>
+    <string name="sayHelloTextView">Hello %1$s</string>
+    <string-array name="names">
+        <item>Sanas</item>
+        <item>Febriyan</item>
+    </string-array>
+</resources>
